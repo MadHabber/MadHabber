@@ -1,4 +1,4 @@
-### Hi there 👋
+### We are all mad here...
 
 <!--
 **MadHabber/MadHabber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
